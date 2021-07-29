@@ -6,6 +6,10 @@ export function cos(x: number) {
     return Math.cos(x);
 }
 
+
 export function sin(x: number) {
     return Math.sin(x);
+}
+
+export function n1() {
 }
