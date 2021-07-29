@@ -5,3 +5,7 @@ export function add(x: number, y: number) {
 export function cos(x: number) {
     return Math.cos(x);
 }
+
+export function sin(x: number) {
+    return Math.sin(x);
+}
